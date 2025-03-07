@@ -1,16 +1,24 @@
-## Hi there 👋
+## Victor Hugo Paz
+<p> <b>Software Development Student</b>
 
-<!--
-**victorpazdev/victorpazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 📍   Campinas, São Paulo, Brazil<br>
+• 🎓  Associate Degree in Systems Analysis and Development (Expected graduation: 2027)<br>
+• 📧  victorhpaz@outlook.com <br>
+• 🌐 <a href="https://www.linkedin.com/in/victor-paz-0b1860237/">Linkedin</a>
+</p>
+<h2>👋 About me</h2>
+<p>I am a <b>Software Development student</b> and am currently seeking opportunities to gain experience and develop my software development skills. I am a technology enthusiast, problem solver and believe in continuous learning.
 
-Here are some ideas to get you started:
+I am easily flexible which allows me to adapt to different challenges and environments.</p>
+<h2>🖥️ Skills</h2>
+• <b>Languages:</b> Java Script <br>
+• <b>Soft Skills:</b> Good interpersonal skills, flexibility and ease in overcoming challenges
+<h2>📚 Studies</h2>
+• <b>Associate Deegree in Systems Analysis and Development</b>
+Universidade São Francisco (USF) <i>Expected Graduation: 2027</i>
+<br>
+• <b>School</b>
+Colégio Objetivo <i>Graduation: December 2020</i>
+<h2>📈Extracurricular Course </h2>
+•<b>Typing and office package</b> - (36hours each)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
